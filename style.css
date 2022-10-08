@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    background-color: red;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+ul li{
+    padding: 10px;
+    list-style: none;
+    text-decoration: none;
+}
